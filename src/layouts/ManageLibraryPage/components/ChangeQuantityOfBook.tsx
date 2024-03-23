@@ -83,7 +83,7 @@ export const ChangeQuantityOfBook: React.FC<{
               <img src={props.book.img} width="123" height="196" alt="book" />
             ) : (
               <img
-                src={require("./../../../Images/BooksImages/book-luv2code-1000.png")}
+                src={require("./../../../Images/BooksImages/book1.jpeg")}
                 width="123"
                 height="196"
                 alt="book"
@@ -95,7 +95,7 @@ export const ChangeQuantityOfBook: React.FC<{
               <img src={props.book.img} width="123" height="196" alt="book" />
             ) : (
               <img
-                src={require("./../../../Images/BooksImages/book-luv2code-1000.png")}
+                src={require("./../../../Images/BooksImages/book1.jpeg")}
                 width="123"
                 height="196"
                 alt="book"

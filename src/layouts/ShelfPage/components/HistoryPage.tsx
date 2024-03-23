@@ -83,7 +83,7 @@ export const HistoryPage = () => {
                         />
                       ) : (
                         <img
-                          src={require("./../../../Images/BooksImages/book-luv2code-1000.png")}
+                          src={require("./../../../Images/BooksImages/book1.jpeg")}
                           width="123"
                           height="196"
                           alt="book"
@@ -100,7 +100,7 @@ export const HistoryPage = () => {
                         />
                       ) : (
                         <img
-                          src={require("./../../../Images/BooksImages/book-luv2code-1000.png")}
+                          src={require("./../../../Images/BooksImages/book1.jpeg")}
                           width="123"
                           height="196"
                           alt="book"

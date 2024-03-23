@@ -268,7 +268,7 @@ export const BookCheckoutPage = () => {
               <img src={book.img} width="226" height="349" alt="book" />
             ) : (
               <img
-                src={require("./../../Images/BooksImages/book-luv2code-1000.png")}
+                src={require("./../../Images/BooksImages/book1.jpeg")}
                 width="226"
                 height="349"
                 alt="book"
